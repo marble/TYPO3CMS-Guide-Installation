@@ -4,7 +4,7 @@
 .. _preparation:
 
 ==============
-01 Preparation
+02 Preparation
 ==============
 
 Before you start
