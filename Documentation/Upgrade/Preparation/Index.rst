@@ -2,10 +2,11 @@
 
 
 .. _preparation:
+.. _preparations:
 
-==============
-02 Preparation
-==============
+===============
+02 Preparations
+===============
 
 Before you start
 ================
