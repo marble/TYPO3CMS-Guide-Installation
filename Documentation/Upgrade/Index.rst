@@ -31,6 +31,7 @@ see if any features affect the way your site works.
 
 Basically these are the steps to be done to update your TYPO3 site:
 
+.. rst-class:: compact-list
 .. toctree::
    :titlesonly:
 
