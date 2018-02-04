@@ -2,9 +2,10 @@
 
 
 .. _upgrade:
+.. _upgrading:
 
-Upgrade
-=======
+Upgrading
+=========
 
 When a new version of TYPO3 is released, you should follow the
 guideline in this chapter in order to do an upgrade. Also follow any
@@ -31,9 +32,7 @@ see if any features affect the way your site works.
 Basically these are the steps to be done to update your TYPO3 site:
 
 .. toctree::
-   :maxdepth: 5
    :titlesonly:
-   :glob:
 
    Preparation/Index
    Backup/Index
