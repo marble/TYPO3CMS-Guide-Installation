@@ -3,9 +3,9 @@
 
 .. _early-preparations:
 
-====================
-01 Early Preparation
-====================
+=====================
+01 Early Preparations
+=====================
 
 What to expect: Learn about semver
 
