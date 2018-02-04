@@ -34,6 +34,7 @@ Basically these are the steps to be done to update your TYPO3 site:
 .. toctree::
    :titlesonly:
 
+   EarlyPreparations/Index
    Preparation/Index
    Backup/Index
    UpdateReferenceIndex/Index
