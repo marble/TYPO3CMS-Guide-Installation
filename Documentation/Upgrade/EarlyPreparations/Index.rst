@@ -30,6 +30,9 @@ Foreseeable implications
    - Think of website visitors
    - Think of editors
 
+Prepare a "Under construction" or "Being serviced" page.
+
+
 TYPO3 specific considerations
 =============================
 
