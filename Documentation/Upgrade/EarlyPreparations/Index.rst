@@ -32,6 +32,10 @@ Foreseeable implications
 
 Prepare a "Under construction" or "Being serviced" page.
 
+Security
+   - Can I use the upgrade to improve security?
+     By placing the sources ((außerhalb)) public webspace?
+
 
 TYPO3 specific considerations
 =============================
